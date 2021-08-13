@@ -50,7 +50,22 @@
 	"LOLUHUMAN_API": {
             "description": "api key. https://lolhuman.herokuapp.com/",
             "required": false,
-            "value": "990580a2e31add15990665b0"
+            "value": "queenamdipublic"
+        },
+        "OWNER_NAME": {
+            "description": "reply for .owner ! give your details, Use => default, to change back.",
+            "required": false,
+            "value": "default"
+         },
+        "BOT_NAME": {
+            "description": "heading for .list command reply",
+            "required": false,
+            "value": "•━━━━╼⤏Sophia BOT⤎╾━━━•"
+        },
+       "THERI_KICK": {
+            "description": "THERI VILICHAL KICK IF TRUE , just keep it false as this option is under maintanance ",
+            "required": true,
+            "value": "false"
         },
         "ANTİ_LİNK": {
             "description": "Link Engelleme Sistemi. Link Blocking System.",
