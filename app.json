@@ -50,7 +50,7 @@
 	"LOLUHUMAN_API": {
             "description": "api key. https://lolhuman.herokuapp.com/",
             "required": false,
-            "value": "queenamdipublic"
+            "value": "ichusir"
         },
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
